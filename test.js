@@ -1,3 +1,6 @@
 console.log("testttttttttt")
 
-console.log("adding newbranch to master")
+function addition (a,b){
+    return a+b;
+}
+addition(2,3)
